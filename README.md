@@ -3,4 +3,4 @@
 
 ![game](https://raw.githubusercontent.com/lovesaroha/gimages/main/11.png)
 
-[lovesaroha/p/Snake-Game](https://lovesaroha.com/p/Snake-Game)
+[lovesaroha/Snake-Game](https://games.lovesaroha.com/Snake-Game)
